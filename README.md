@@ -1,3 +1,3 @@
-Video of gameplay and DemoScene located in Assets folder
+Gameplay videos and a demo scene are located in the Assets folder
 
-Added a little explosion to parts separation  and improve physics 
+Added a small explosion when parts are separated and improved physics
